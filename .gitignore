@@ -1,0 +1,5 @@
+.env
+app/vendor/
+.DS_Store
+**/.DS_Store
+app/logs/
