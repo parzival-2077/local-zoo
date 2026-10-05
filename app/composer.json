@@ -4,7 +4,9 @@
     "type": "project",
     "require": {
         "php": ">=8.5",
-        "ext-pdo_pgsql": "*"
+        "ext-pdo_pgsql": "*",
+        "illuminate/database": "^13.34",
+        "robmorgan/phinx": "^0.16.12"
     },
     "autoload": {
         "psr-4": {
